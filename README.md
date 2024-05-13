@@ -1,5 +1,7 @@
- Käyttöohjeet ja lyhyt kuvaus projektissa fruit_flip
- luotuun peliin match3
+Ohjelma on luotu syksyllä 2020 Tampereen yliopiston kurssilla Ohjelmointi 2 - Rakenteet
+
+Käyttöohjeet ja lyhyt kuvaus projektissa fruit_flip
+luotuun peliin match3
 
 Pelin tarkoitus on jäljitellä myös netistä löytyvää tietokonepeliä
 match3. Ohjelman suorituksen jälkeen näytölle avautuu käyttöliittymä,
