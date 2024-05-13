@@ -1,5 +1,3 @@
-Ohjelma on luotu syksyllä 2020 Tampereen yliopiston kurssilla Ohjelmointi 2 - Rakenteet
-
 Käyttöohjeet ja lyhyt kuvaus projektissa fruit_flip
 luotuun peliin match3
 
