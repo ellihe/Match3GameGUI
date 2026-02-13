@@ -6,7 +6,7 @@
  * Luokan attribuutteja muuttamalla, käyttäjä voi tehdä pelistään omannäköisensä
  *
  * Ohjelman kirjoittaja
- * Nimi: Ellinoora Hetemaa
+ * Nimi: EH
  * Palautteen kieli (fi/en): fi
  *
  * Huomioita ohjelmasta ja sen toteutuksesta:
