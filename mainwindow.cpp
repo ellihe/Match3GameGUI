@@ -12,7 +12,7 @@
  * hedelmät poistuvat ja tyhjät kohdat täyttyvät yläpuolella olevilla hedelmillä.
  *
  * Ohjelman kirjoittaja
- * Nimi: Ellinoora Hetemaa
+ * Nimi: EH
 
  * Palautteen kieli (fi/en): fi
  *
